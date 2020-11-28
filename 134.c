@@ -79,6 +79,7 @@ int main()
 		}}
  printf("So xa gia tri 100 nhat "); */
 	pritnf("Edit something new");
+	printf("new");
  return 0;
 
 }
