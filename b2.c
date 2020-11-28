@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+ int i;
+ for(i=0;i<100;i++)
+  {if(i%2==1)
+    {if(i==5||i==7||i==9){continue;
+	}
+	printf("%d ",i);
+	
+	} }	
+	return 0;
+}
