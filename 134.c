@@ -75,9 +75,10 @@ int main()
 	{
 		if (b[i] == max1)    
 		{
-			printf("\n%d\n", a[i]); // –?i chi?u qua m?ng a, in ph?n t? ? v? trÌ th? i th?a –K
+			printf("\n%d\n", a[i]); // √ê?i chi?u qua m?ng a, in ph?n t? ? v? tr√≠ th? i th?a √êK
 		}}
  printf("So xa gia tri 100 nhat "); */
+	pritnf("Edit something new");
  return 0;
 
 }
